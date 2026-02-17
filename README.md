@@ -16,9 +16,9 @@ Updated pip from 25.3 to 26.0.1
 
 ## Data File
 Pulled from my middle school gradebook
-Swapped student name for animal starting with the same letter
-Data Includes:
-    1. Chapter Test Scores
-    2. Practice State Test predictors. The perentage indicates the students chances of passing the state test.
-    3. Attendance data as a POI.
+Swapped student name for animal starting with the same letter  
+Data Includes:  
+    1. Chapter Test Scores  
+    2. Practice State Test predictors. The perentage indicates the students chances of passing the state test.  
+    3. Attendance data as a POI.  
 ## -------------------------------
