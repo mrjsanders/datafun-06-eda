@@ -44,3 +44,17 @@ Fall_MAP_score               int64
 Winter_MAP_score             int64  
 Attendance_Percent_YTD       int64  
 dtype: object  
+
+## --- Action Log
+
+1. I built the repo from scratch before I saw the message on our 
+   assignment announcement. (Big mistake on my part!)
+2. Created a jupyter notebook.
+3. Created markup and code blocks to explain and create boxplots
+4. Tried using ipwdigets to create buttons.
+   1. Made it work on VS Code, but he github preview doesn't support
+   2. Ran out of time to work with Voila to resolve the display issue
+5. I'm happy with my project, but sad that it only displays correctly 
+   in VS Code.
+## ---------------------------------
+
