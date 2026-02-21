@@ -1,3 +1,30 @@
+Metadata-Version: 2.4
+Name: datafun-06-eda
+Version: 0.1.0
+Requires-Python: >=3.14
+Description-Content-Type: text/markdown
+Requires-Dist: datafun-toolkit>=0.9.4
+Requires-Dist: duckdb>=1.4.4
+Requires-Dist: ipywidgets>=8.1.8
+Requires-Dist: matplotlib>=3.10.8
+Requires-Dist: pandas>=2.2.0
+Requires-Dist: seaborn>=0.13.2
+Provides-Extra: dev
+Requires-Dist: bandit>=1.9.2; extra == "dev"
+Requires-Dist: packaging>=26.0; extra == "dev"
+Requires-Dist: pre-commit>=4.5.1; extra == "dev"
+Requires-Dist: pytest>=9.0.2; extra == "dev"
+Requires-Dist: pytest-cov>=7.0.0; extra == "dev"
+Requires-Dist: pyright>=1.1.408; extra == "dev"
+Requires-Dist: ruff>=0.14.10; extra == "dev"
+Requires-Dist: validate-pyproject>=0.24.1; extra == "dev"
+Provides-Extra: docs
+Requires-Dist: mike>=2.1.3; extra == "docs"
+Requires-Dist: mkdocs>=1.6.1; extra == "docs"
+Requires-Dist: mkdocs-material>=9.7.1; extra == "docs"
+Requires-Dist: mkdocs-static-i18n>=1.3.0; extra == "docs"
+Requires-Dist: mkdocstrings[python]>=1.0.0; extra == "docs"
+
 # datafun-06-eda
 ## Author: Jacob Sanders
 ## Created February 2026
@@ -24,7 +51,7 @@ Data Includes:
    
 ## -------------------------------
 
-Source: math_class_data.csv  (8th Grade Student Classroom data)  
+Source: 8th Grade Student Classroom data  
 
 Records: 18  
 
